@@ -1,0 +1,139 @@
+.header{background-color: #3C3C3C;
+	height: 40px;
+
+	
+	
+	
+
+
+}
+
+	
+
+.header ul li{
+	display: inline;
+	color: #ffffff;
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size: 15px;
+	line-height: 2.5;
+	
+
+}
+.header ul .li1{
+	display: inline;
+	margin-right: 450px;
+
+
+}
+.header ul .li1:hover{
+	color: #1682B6;
+}
+.title h1{
+	font-size: 35px;
+	text-align: center;
+	line-height: 5.5;
+	background-color: #292929;
+	height: 200px;
+	color: #ffffff;
+
+}
+.title p{
+	color: #999999;
+	text-align: center;
+	margin-top: -92px;
+	margin-bottom: 50px;
+}
+
+.sub-title ul li{
+	list-style: none;
+	display: inline;
+	padding-right: 17px;
+	font-size: 19px;
+	line-height: 4.5;
+	color: #ffffff;
+
+
+
+	
+}
+
+.sub-title{
+	background-color: #2F2F2F;
+	height: 100px;
+}
+.sub-title ul .li1{
+	margin-left: 100px;
+}
+
+.sub-title ul li a {
+	color: #999999;
+}
+.sub-title ul li a:hover{
+	color: #DF7571;
+
+}
+.header li:hover{
+	color: #DF7571;
+
+}
+.grid1 .row .col-md-4 img{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.sub{
+	background-color: #DF7879;
+	height: 32px;
+}
+.sub p{
+	text-align: center;
+	line-height: 2;
+	color: #ffffff;
+	font-size: 15px;
+	
+}
+.text p{
+	margin-left: 70px;
+	font-size: 25px;
+	margin-top: 20px;
+	color: #E3CE90;
+
+}
+
+
+.color{
+	ba;ckground-color: #323232;
+}
+
+
+.card-body h4{
+	text-align: center;
+	color: #DF7879;
+	
+}
+.card-footer p{
+	font-size: 18px;
+	color: #8B997D;
+	text-align: center;
+
+}
+
+.card-body{
+	background-color: #292929;
+}
+.card-footer{
+	background-color: #292929;
+}
+.card-header:hover{
+	 background-color: #666666;
+
+
+}
+
+
+
+
+
+
+
+
